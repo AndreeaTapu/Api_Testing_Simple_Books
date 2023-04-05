@@ -14,5 +14,7 @@
 ## File Structure
 
 * tests.py: The main file that contains all the tests.
-* requests_folder.py: The configuration file for testing.
+* requests_folder.py: The folder that contains files with functions for performing HTTP requests of type GET, POST, PUT, and DELETE.
 
+This file structure can be useful for organizing code and specific functionalities in API testing project. 
+The "tests" folder contains the files with the actual tests, and the "request_folder" folder contains the files with the functions that perform HTTP requests for the API.
